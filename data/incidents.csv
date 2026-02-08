@@ -1,0 +1,7 @@
+incident_id,service,severity,status,created_at,resolved_at
+INC-1001,Auth,P1,Closed,2024-01-01,2024-01-02
+INC-1002,Payments,P0,Closed,2024-01-03,2024-01-03
+INC-1003,Search,P2,Open,2024-01-05,
+INC-1004,Auth,P3,Closed,2024-01-07,2024-01-10
+INC-1005,Payments,P1,Open,2024-01-09,
+INC-1006,Orders,P2,Closed,2024-01-11,2024-01-12
